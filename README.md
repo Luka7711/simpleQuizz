@@ -1,2 +1,1 @@
-# simpleQuizz
-javascript simpleQuizz test
+# simpleQuizz application
