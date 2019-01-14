@@ -1,7 +1,7 @@
-![Image of Yaktocat](C:\Users\luka6\OneDrive\Pictures\quizz.png)
+![Image of quizz](https://github.com/Luka7711/simpleQuizz/blob/master/quizz.png)
 
 
-# SimpleQuizz application
+# SimpleQuizz app
 ## Application with 5 simple html test questions. Submitimg a form, getting total scored points.
 
 ### itteration, using for loops
